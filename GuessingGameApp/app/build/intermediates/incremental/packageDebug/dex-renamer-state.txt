@@ -1,0 +1,7 @@
+#Mon Mar 13 13:07:25 AEST 2017
+base.0=C\:\\Users\\noobtube\\AndroidStudioProjects\\GuessingGameApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_88391fcc278ca8c7d233dea90657b8c7e571f029
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\noobtube\\AndroidStudioProjects\\GuessingGameApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_259485278fa43806ece77920b8a1023d3ad98c1f\\classes.dex
+base.1=C\:\\Users\\noobtube\\AndroidStudioProjects\\GuessingGameApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_259485278fa43806ece77920b8a1023d3ad98c1f
+file.0=C\:\\Users\\noobtube\\AndroidStudioProjects\\GuessingGameApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_88391fcc278ca8c7d233dea90657b8c7e571f029\\classes.dex
